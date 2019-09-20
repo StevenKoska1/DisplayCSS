@@ -1,0 +1,46 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    
+}
+.ul-inline {
+    background-color: aquamarine;
+    width: 40%
+}
+.ul-inline li{
+
+    background-color: cyan;
+    width: 75%
+}
+.ul-inline-block {
+    display: inline-block;
+    background-color: aquamarine;
+    width: 40%
+}
+.ul-inline-block li {
+    display: inline-block;
+    background-color: burlywood;
+    width: 15%;
+    padding: 10px;
+    text-align: center;
+    color: azure;
+}
+
+
+
+.ul-block {
+
+    background-color: aquamarine;
+    
+}
+.ul-block li{
+    display: block;
+    height: 1oopx;
+    widows: 20%;
+    margin: 0% auto;
+    border: 2px solid salmon
+}
+
+.ul-block-wrapper {
+    margin: auto 0;
+    width: 80%;
+}
